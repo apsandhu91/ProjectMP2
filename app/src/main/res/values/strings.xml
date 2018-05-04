@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JsonParsingTest</string>
+    <color name="red">#ffff0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#273035</color>
+    <color name="orange">#FFA500</color>
+    <color name="maroon">#7F0000</color>
+
+
+
+</resources>
